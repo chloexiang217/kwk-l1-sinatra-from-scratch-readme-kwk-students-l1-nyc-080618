@@ -1,4 +1,4 @@
-g# Sinatra From Scratch
+# Sinatra From Scratch
 
 ## Overview
 
